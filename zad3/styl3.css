@@ -1,0 +1,45 @@
+body{
+    font-family: Georgia;
+    background-color: aliceblue;
+}
+#baner{
+    float: flex;
+    background-color: #A00037;
+    color: white;
+    text-align: center;
+    font-size: 150%;
+    padding: 3px;
+}
+#left{
+    float: left;
+    width: 70%;
+}
+#right{
+    float: right;
+    background-color: #D81B60;
+    color: white;
+    width: 20%;
+    padding: 5px;
+    margin: 10px;
+    box-shadow: 15px 15px 12px dimgray;
+}
+button{
+    background-color: #D81B60;
+    color: white;
+    padding: 20px;
+    margin: 15px;
+    width: 100%;
+}
+#table{
+    margin: auto;
+    border: 1px solid aliceblue;
+}
+#img{
+    height: 100%;
+    width: 100%;
+}
+#cytat, h5{
+    font-style: italic;
+    text-align: center;
+    margin: 0%;
+}
